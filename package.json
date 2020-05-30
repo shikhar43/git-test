@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "To learn Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikhar43/git-test.git"
+  },
+  "author": "Shikhar Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikhar43/git-test/issues"
+  },
+  "homepage": "https://github.com/shikhar43/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
